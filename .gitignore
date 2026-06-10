@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Videos (archivos grandes) - EXCEPTO focus_video.mov que es necesario
+*.mp4
+*.avi
+*.mkv
+# Permitir focus_video.mov específicamente
+!focus_video.mov
+
+# Imágenes generadas temporalmente
+*.tmp.png
+*.tmp.jpg
+# Permitir imágenes de documentación/resultados si las hay
+# !results/*.png
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+INSTRUCCIONES_GIT.md

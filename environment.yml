@@ -1,0 +1,26 @@
+name: vision-tp2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - bs4
+  - sqlalchemy
+  - missingno
+  - requests
+  - ipykernel
+  - imbalanced-learn
+  - category_encoders
+  - nltk
+  - umap-learn
+  - optuna
+  # Dependencias específicas para TP2 - Focus Detection
+  - opencv
+  - numpy>=1.21.0
+  - jupyter
+  - notebook
