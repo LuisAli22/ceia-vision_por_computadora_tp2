@@ -2,8 +2,8 @@
 ## Visión por Computadora I - CEIA
 
 ### 🧑‍🎓 Alumnos
-- **Santiago Ignacio Bartolini Rizzo** → C2402
-- **Luis Ali** → C2401
+- **Santiago Ignacio Bartolini Rizzo** → a2402
+- **Luis Ali** → a2401
 
 ---
 
